@@ -1,0 +1,49 @@
+
+
+					THONG TIN HUAN LUYEN VIEN
+
+Ho va ten                 Quoc tich       Ngay sinh       Tuoi
+
+
+Thomas Frank              Denmark         09/10/1973        49
+
+							+------------------------------------------------+
+							|                                                |
+							|              DANH SACH CAU THU                 |
+							|                                                |
+							+------------------------------------------------+
+
+Ho va ten                 Quoc tich       Ngay sinh       Tuoi          Cau lac bo             Ngay gia nhap      Vi tri   So ao  Ban thang   Kien tao
+
+
+David Raya                Spain           15/09/1995        27                Brentford          14/05/2016           GK       1          0          0
+
+Thomas Strakosha          Albania         19/03/1995        27                Brentford          04/01/2017           GK      22          0          0
+
+Aaron Hickey              Scotland        10/06/2002        20                Brentford          11/07/2022           CB       2          0          0
+
+Zanka                     Denmark         23/04/1990        32                Brentford          02/03/2014           LB      13          0          0
+
+Ben Mee                   England         21/09/1989        33                Brentford          23/04/2015           RB      16          0          0
+
+Rico Henry                England         08/07/1997        25                Brentford          19/08/2017           CB       3          0          0
+
+Charlie Goode             England         03/08/1995        27                Brentford          13/03/2015           RB       4          0          0
+
+Ethan Pinnock             Jamaica         29/05/1993        29                Brentford          21/11/2017           LB       5          0          0
+
+Christian Norgaard        Denmark         10/03/1994        28                Brentford          24/11/2018           CM       6          0          0
+
+Mathias Jensen            Denmark         01/01/1996        26                Brentford          17/04/2019           AM       8          0          0
+
+Josh Dasilva              England         23/10/1998        24                Brentford          29/12/2017           DM      10          0          0
+
+Saman Ghoddor             Iran            06/09/1993        29                Brentford          09/02/2021          CAM      14          0          0
+
+Frank Onyeka              Nigeria         01/01/1998        24                Brentford          11/11/2021          CDM      15          0          0
+
+Keane Lewis-Potter        England         22/02/2001        21                Brentford          03/05/2022           ST      23          0          0
+
+Yoane Wissa               Congo           03/09/1996        26                Brentford          06/11/2019           ST      11          0          0
+
+Ivan Toney                England         16/03/1996        26                Brentford          17/06/2019           CF      17          0          0

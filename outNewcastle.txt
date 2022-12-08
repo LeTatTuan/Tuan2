@@ -1,0 +1,49 @@
+
+
+					THONG TIN HUAN LUYEN VIEN
+
+Ho va ten                 Quoc tich       Ngay sinh       Tuoi
+
+
+Eddie Howe                England         29/11/1977        45
+
+							+------------------------------------------------+
+							|                                                |
+							|              DANH SACH CAU THU                 |
+							|                                                |
+							+------------------------------------------------+
+
+Ho va ten                 Quoc tich       Ngay sinh       Tuoi          Cau lac bo             Ngay gia nhap      Vi tri   So ao  Ban thang   Kien tao
+
+
+Mark Gillespie            England         27/03/1993        29         Newcastle United          26/03/2018           GK      29          0          0
+
+Karl Darlow               England         08/10/1990        32         Newcastle United          11/01/2017           GK      26          0          0
+
+Loris Karius              Germany         22/06/1993        29         Newcastle United          14/07/2016           GK      18          0          0
+
+Sven Botman               Netherlands     12/01/2000        22         Newcastle United          27/03/2020           CB       4          0          0
+
+Dan Burn                  England         09/05/1992        30         Newcastle United          07/07/2015           LB      33          0          0
+
+Kieran Trippier           England         19/09/1990        32         Newcastle United          20/05/2017           LB       2          0          0
+
+Matt Targett              England         19/08/1985        37         Newcastle United          11/01/2014           CB      13          0          0
+
+Fabian Schar              Switzerland     20/12/1991        31         Newcastle United          20/12/2019           RB       5          0          0
+
+Matt Ritchie              England         19/09/1989        33         Newcastle United          14/08/2014           CM      11          0          0
+
+Jonjo Shelvey             England         27/02/1992        30         Newcastle United          21/12/2017          CAM       8          0          0
+
+Miguel Almiron            Paraguay        10/02/1994        28         Newcastle United          02/02/2019           CM      24          0          0
+
+Sean Longstaff            England         30/10/1997        25         Newcastle United          19/07/2021          CDM      36          0          0
+
+Bruno Guimaraes           Brazil          16/11/1997        25         Newcastle United          25/07/2021           CM      39          0          0
+
+Chris Wood                Australia       07/12/1991        31         Newcastle United          19/09/2018           ST      20          0          0
+
+Alexander Isak            Sweden          21/09/1999        23         Newcastle United          15/05/2020           ST      14          0          0
+
+Ryan Fraser               Scotland        24/02/1994        28         Newcastle United          31/10/2018           CF      21          0          0

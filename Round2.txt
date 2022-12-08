@@ -1,0 +1,16 @@
+15:30 24/12/2022,ManchesterUnited,ManchesterCity,
+02:00 27/12/2022,Chelsea,Liverpool,
+11:00 30/12/2022,NewcastleUnited,Arsenal,
+01:00 31/12/2022,TottenhamHotspur,Brentford,
+02:00 31/12 2022,Brighton,Fulham,
+Thoi gian thi dau             Doi nha           Ket Qua           Doi khach
+
+15:30 24/12/2022    ManchesterUnited              1 - 2      ManchesterCity
+
+02:00 27/12/2022             Chelsea              3 - 2           Liverpool
+
+11:00 30/12/2022     NewcastleUnited              1 - 2             Arsenal
+
+01:00 31/12/2022    TottenhamHotspur              2 - 5           Brentford
+
+02:00 31/12 2022            Brighton              1 - 5              Fulham

@@ -1,0 +1,49 @@
+
+
+					THONG TIN HUAN LUYEN VIEN
+
+Ho va ten                 Quoc tich       Ngay sinh       Tuoi
+
+
+Antonio Conte             Italy           31/07/1969        53
+
+							+------------------------------------------------+
+							|                                                |
+							|              DANH SACH CAU THU                 |
+							|                                                |
+							+------------------------------------------------+
+
+Ho va ten                 Quoc tich       Ngay sinh       Tuoi          Cau lac bo             Ngay gia nhap      Vi tri   So ao  Ban thang   Kien tao
+
+
+Hugo Lloris               France          26/12/1986        36        Tottenham Hotspur          01/02/2015           GK       1          0          0
+
+Fraser Forster            England         17/03/1988        34        Tottenham Hotspur          15/04/2018           GK      20          0          0
+
+Brandon Austin            England         08/01/1999        23        Tottenham Hotspur          18/01/2017           GK      40          0          0
+
+Djed Spence               England         09/08/2000        22        Tottenham Hotspur          05/03/2020           RB      24          0          0
+
+Clement Lenglet           France          17/06/1995        27        Tottenham Hotspur          31/10/2018           CB      34          0          0
+
+Japhet Tanganga           England         31/03/1999        23        Tottenham Hotspur          14/02/2021           CB      25          0          0
+
+Cristian Romero           Argentina       27/04/1998        24        Tottenham Hotspur          25/03/2019           LB      17          0          0
+
+Emerson Royal             Brazil          14/01/1999        23        Tottenham Hotspur          06/11/2021           RB      12          0          0
+
+Eric Dier                 England         15/01/1994        28        Tottenham Hotspur          12/07/2018           LB      15          0          0
+
+Ivan Perisic              Croatia         02/02/1989        33        Tottenham Hotspur          05/03/2017           AM      14          0          0
+
+Pape Matar Sarr           Senegal         14/09/2002        20        Tottenham Hotspur          15/04/2022           CM      29          0          0
+
+Rodrigo Bentancur         Urugoay         25/06/1997        25        Tottenham Hotspur          05/05/2017           DM      30          0          0
+
+Harvey White              England         19/09/2001        21        Tottenham Hotspur          19/08/2021          CDM      42          0          0
+
+Son Heung-min             Korea           08/07/1992        30        Tottenham Hotspur          02/05/2015           ST       7          0          0
+
+Harry Kane                England         28/07/1993        29        Tottenham Hotspur          12/07/2014           ST      10          0          0
+
+Richarlison               Brazil          10/05/1997        25        Tottenham Hotspur          18/09/2017           ST       9          0          0

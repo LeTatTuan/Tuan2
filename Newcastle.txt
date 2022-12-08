@@ -1,0 +1,18 @@
+NewcastleUnited,
+Eddie Howe            ,England    ,29/11/1977,
+Mark Gillespie        ,England    ,27/03/1993,Newcastle United,26/03/2018,GK,   29
+Karl Darlow           ,England    ,08/10/1990,Newcastle United,11/01/2017,GK,   26
+Loris Karius          ,Germany    ,22/06/1993,Newcastle United,14/07/2016,GK,   18
+Sven Botman           ,Netherlands,12/01/2000,Newcastle United,27/03/2020,CB,    4
+Dan Burn              ,England    ,09/05/1992,Newcastle United,07/07/2015,LB,   33
+Kieran Trippier       ,England    ,19/09/1990,Newcastle United,20/05/2017,LB,    2
+Matt Targett          ,England    ,19/08/1985,Newcastle United,11/01/2014,CB,   13
+Fabian Schar          ,Switzerland,20/12/1991,Newcastle United,20/12/2019,RB,    5
+Matt Ritchie          ,England    ,19/09/1989,Newcastle United,14/08/2014,CM,   11
+Jonjo Shelvey         ,England    ,27/02/1992,Newcastle United,21/12/2017,CAM,   8
+Miguel Almiron        ,Paraguay   ,10/02/1994,Newcastle United,02/02/2019,CM,   24
+Sean Longstaff        ,England    ,30/10/1997,Newcastle United,19/07/2021,CDM,  36
+Bruno Guimaraes       ,Brazil     ,16/11/1997,Newcastle United,25/07/2021,CM,   39
+Chris Wood            ,Australia  ,07/12/1991,Newcastle United,19/09/2018,ST,   20
+Alexander Isak        ,Sweden     ,21/09/1999,Newcastle United,15/05/2020,ST,   14
+Ryan Fraser           ,Scotland   ,24/02/1994,Newcastle United,31/10/2018,CF,   21

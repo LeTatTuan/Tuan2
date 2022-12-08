@@ -1,0 +1,16 @@
+02:00 02/02/2023,ManchesterUnited,Fulham,
+23:00 02/02/2023,ManchesterCity,Brentford,
+01:00 04/02/2023,Chelsea,TottenhamHotspur,
+20:00 05/02/2023,Liverpool,Arsenal,
+03:00 07/02/2023,Brighton,NewcastleUnited,
+Thoi gian thi dau             Doi nha           Ket Qua           Doi khach
+
+02:00 02/02/2023    ManchesterUnited              1 - 2              Fulham
+
+23:00 02/02/2023      ManchesterCity             10 - 2           Brentford
+
+01:00 04/02/2023             Chelsea              2 - 2    TottenhamHotspur
+
+20:00 05/02/2023           Liverpool              2 - 2             Arsenal
+
+03:00 07/02/2023            Brighton              2 - 2     NewcastleUnited

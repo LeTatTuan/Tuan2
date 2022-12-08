@@ -1,0 +1,18 @@
+ManchesterCity,
+Pep Guardiola         ,Spain      ,18/01/1971,
+Ederson               ,Brazil     ,17/07/1993,Manchester City,06/11/2012,GK,  31
+Scott Carson          ,England    ,03/09/1985,Manchester City,27/02/2015,GK,  33
+Stefan Ortega         ,Germany    ,06/11/1992,Manchester City,12/12/2018,GK,  18
+Kyle Walker           ,England    ,28/05/1990,Manchester City,05/06/2015,RB,   2
+John Stones           ,England    ,28/05/1994,Manchester City,14/06/2015,CB,   5
+Ruben Dias            ,Portugal   ,14/05/1997,Manchester City,25/02/2016,CB,   3
+Joan Cancelo          ,Portugal   ,27/05/1994,Manchester City,14/02/2014,LB,   7
+Aymeric Laporte       ,France     ,27/05/1994,Manchester City,25/04/2017,CB,  14
+Ikay Gundogan         ,Germany    ,24/10/1990,Manchester City,22/11/2014,CM,   8
+Rodri                 ,Spain      ,22/06/1996,Manchester City,15/06/2015,DM,  16
+Kevin De Bruyne       ,Belgium    ,28/06/1991,Manchester City,04/05/2015,AM,  17
+Jack Grealish         ,England    ,10/09/1995,Manchester City,21/02/2021,AM,  10
+Bernardo Silva        ,Portugal   ,10/08/1994,Manchester City,10/10/2014,LAM, 20
+Phil Foden            ,England    ,28/05/2000,Manchester City,12/03/2019,RAM, 47
+Erling Haaland        ,Norway     ,21/07/2000,Manchester City,17/06/2022,ST,   9
+Riyad Mahrez          ,Algeria    ,21/02/1991,Manchester City,11/11/2020,ST,  26

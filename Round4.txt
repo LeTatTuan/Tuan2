@@ -1,0 +1,16 @@
+02:00 06/01/2023,TottenhamHotspur,NewcastleUnited,
+22:00 06/01/2023,ManchesterUnited,Liverpool,
+03:00 08/01/2023,ManchesterCity,Brighton,
+21:30 08/01/2023,Arsenal,Fulham,
+01:00 09/01/2023,Chelsea,Brentford,
+Thoi gian thi dau             Doi nha           Ket Qua           Doi khach
+
+02:00 06/01/2023    TottenhamHotspur              0 - 0     NewcastleUnited
+
+22:00 06/01/2023    ManchesterUnited              0 - 0           Liverpool
+
+03:00 08/01/2023      ManchesterCity              0 - 0            Brighton
+
+21:30 08/01/2023             Arsenal              0 - 0              Fulham
+
+01:00 09/01/2023             Chelsea              0 - 0           Brentford

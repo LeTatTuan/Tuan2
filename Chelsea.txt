@@ -1,0 +1,18 @@
+Chelsea,
+Thomas Tuchel         ,Germany    ,29/08/1973,
+Kepa Arrizabalaga     ,Spain      ,03/10/1994,Chelsea,20/10/2015,GK,   1
+Edouard Mendy         ,Senegal    ,01/03/1992,Chelsea,18/09/2017,GK,  16
+Thiago Silva          ,Brazil     ,22/09/1984,Chelsea,16/07/2012,CB,   6
+Reece James           ,England    ,08/12/1999,Chelsea,21/11/2019,CB,  24
+Trevoh Chalobah       ,England    ,05/07/1999,Chelsea,15/06/2018,LB,  14
+Cesar Azpilicueta     ,Spain      ,28/08/1989,Chelsea,14/02/2017,RB,  28
+Wesley Fofana         ,France     ,17/12/2000,Chelsea,25/05/2020,RB,  33
+Marc Cucurella        ,Spain      ,22/07/1998,Chelsea,13/06/2021,LB,  32
+Ben Chilwell          ,England    ,21/12/1996,Chelsea,11/11/2019,LB,  21
+Ngolo Kante           ,France     ,29/03/1991,Chelsea,22/12/2018,CM,   7
+Kai Havertz           ,Germany    ,11/06/1999,Chelsea,01/01/2017,CAM, 29
+Jorginho              ,Brazil     ,20/12/1991,Chelsea,14/03/2019,CDM,  5
+Mason Mout            ,England    ,10/01/1999,Chelsea,24/11/2020,CAM, 19
+Conor Gallagher       ,England    ,06/02/2000,Chelsea,06/11/2021,CM,  23
+Chiristian Pulisic    ,America    ,18/09/1998,Chelsea,11/05/2019,ST,  10
+Armando Broja         ,Albania    ,10/09/2001,Chelsea,02/05/2021,ST,  18

@@ -1,0 +1,29 @@
+01:00 22/12/2022,Arsenal,Brentford,
+04:00 23/12/2022,Brighton,Chelsea,
+22:00 23/12/2022,Liverpool,ManchesterCity,
+02:00 25/12/2022,ManchesterUnited,NewcastleUnited,
+10:00 25/12/2022,TottenhamHotspur,Fulham,
+
+Thoi gian thi dau             Doi nha           Ket Qua           Doi khach
+
+01:00 22/12/2022             Arsenal              1 - 1           Brentford
+
+04:00 23/12/2022            Brighton              2 - 2             Chelsea
+
+22:00 23/12/2022           Liverpool              2 - 3      ManchesterCity
+
+02:00 25/12/2022    ManchesterUnited              3 - 4     NewcastleUnited
+
+10:00 25/12/2022    TottenhamHotspur              2 - 3              Fulham
+
+Thoi gian thi dau             Doi nha           Ket Qua           Doi khach
+
+01:00 22/12/2022             Arsenal              1 - 2           Brentford
+
+04:00 23/12/2022            Brighton              2 - 3             Chelsea
+
+22:00 23/12/2022           Liverpool              2 - 4      ManchesterCity
+
+02:00 25/12/2022    ManchesterUnited              3 - 5     NewcastleUnited
+
+10:00 25/12/2022    TottenhamHotspur              2 - 0              Fulham

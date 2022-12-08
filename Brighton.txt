@@ -1,0 +1,18 @@
+Brighton,
+Roberto De Zerbi      ,Italy      ,06/06/1979,
+Jason Steele          ,England    ,18/07/1990,Brighton & Hove Albion,24/06/2016,GK,	23
+Robert Sanchez        ,Spain      ,18/11/1997,Brighton & Hove Albion,14/05/2016,GK,	 1
+Adam Webster          ,England    ,04/01/1995,Brighton & Hove Albion,02/03/2015,CB,	 4
+Tariq Lamptey         ,Ghana      ,30/09/2000,Brighton & Hove Albion,04/01/2017,CB,	 2
+Joel Veltman          ,Netherlands,15/01/1992,Brighton & Hove Albion,19/07/2018,RB,	34
+Lewis Dudnk           ,England    ,21/11/1991,Brighton & Hove Albion,26/02/2017,LB,	 5
+Levi Colwill          ,England    ,26/02/2003,Brighton & Hove Albion,11/07/2022,RB,	 6
+Jan Paul van Hecke    ,Netherlands,08/06/2000,Brighton & Hove Albion,27/01/2021,LB,	29
+Billy Gilmour         ,Scotland   ,11/06/2001,Brighton & Hove Albion,13/05/2021,CM,	27
+Adam Lallana          ,England    ,10/05/1988,Brighton & Hove Albion,17/06/2014,CDM,14
+Enock Mwepu           ,Zambia     ,01/01/1998,Brighton & Hove Albion,02/07/2017,CDM, 8
+Jakub Moder           ,Poland     ,07/04/1999,Brighton & Hove Albion,27/04/2021,AM,	15
+Alexis Mac Allister   ,Argentina  ,24/12/1998,Brighton & Hove Albion,23/02/2018,CM,	10
+Leandro Trossard      ,Belgium    ,04/12/1994,Brighton & Hove Albion,26/11/2019,ST,	11
+Danny Welbeck         ,England    ,26/11/1990,Brighton & Hove Albion,27/09/2018,ST,	18
+Julio Enciso          ,Paraguay   ,23/01/2004,Brighton & Hove Albion,19/07/2022,ST,	20

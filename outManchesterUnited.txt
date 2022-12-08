@@ -1,0 +1,47 @@
+
+
+					THONG TIN HUAN LUYEN VIEN
+
+Ho va ten                 Quoc tich       Ngay sinh       Tuoi
+
+
+Erik ten Hag              Netherlands     02/02/1970        52
+
+							+------------------------------------------------+
+							|                                                |
+							|              DANH SACH CAU THU                 |
+							|                                                |
+							+------------------------------------------------+
+
+Ho va ten                 Quoc tich       Ngay sinh       Tuoi          Cau lac bo             Ngay gia nhap      Vi tri   So ao  Ban thang   Kien tao
+
+
+David de Gea              Spain           07/11/1990        32        Manchester United          06/06/2011           GK       1          0          0
+
+Tom Heaton                England         15/04/1986        36        Manchester United          04/05/2020           GK      22          0          0
+
+Lisandro Martinez         Argentina       18/01/1998        24        Manchester United          27/07/2022           CB       6          0          0
+
+Diogo Dalot               Porgutal        18/03/1999        23        Manchester United          06/06/2018           RB      20          0          0
+
+Luke Shaw                 England         12/07/1985        37        Manchester United          27/06/2014           LB      12          0          0
+
+Raphael Varane            France          25/04/1993        29        Manchester United          27/07/2021           CB      19          0          0
+
+Victor Lindelof           Sweden          17/07/1994        28        Manchester United          04/05/2020           CB       2          0          0
+
+Harry Maguire             England         05/03/1993        29        Manchester United          07/07/2019           CB       5          0          0
+
+Bruno Fernandes           Porgutal        08/09/1994        28        Manchester United          29/01/2020           AM      18          0          0
+
+Fred                      Brazil          05/03/1993        29        Manchester United          05/06/2018           CM      17          0          0
+
+Casemiro                  Brazil          23/02/1992        30        Manchester United          19/08/2022           DM      14          0          0
+
+Christian Eriksen         Denmark         14/02/1992        30        Manchester United          04/05/2021           CM      13          0          0
+
+Cristiano Ronaldo         Porgutal        05/02/1985        37        Manchester United          17/08/2021           ST       7          0          0
+
+Marcus Rashford           England         31/10/1997        25        Manchester United          05/05/2015           CF      10          0          0
+
+Jadon Sancho              England         25/03/2000        22        Manchester United          01/07/2021           LW      25          0          0

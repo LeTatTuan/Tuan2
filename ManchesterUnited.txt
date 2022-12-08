@@ -1,0 +1,18 @@
+ManchesterUnited,
+Erik ten Hag          ,Netherlands,02/02/1970,
+David de Gea          ,Spain      ,07/11/1990,Manchester United,06/06/2011,GK,  1
+Tom Heaton            ,England    ,15/04/1986,Manchester United,04/05/2020,GK, 22
+Martin Dubravka       ,Slovakia   ,15/01/1989,Manchester United,04/05/2016,GK, 31
+Lisandro Martinez     ,Argentina  ,18/01/1998,Manchester United,27/07/2022,CB,  6
+Diogo Dalot           ,Porgutal   ,18/03/1999,Manchester United,06/06/2018,RB, 20
+Luke Shaw             ,England    ,12/07/1985,Manchester United,27/06/2014,LB, 12
+Raphael Varane        ,France     ,25/04/1993,Manchester United,27/07/2021,CB, 19
+Victor Lindelof       ,Sweden     ,17/07/1994,Manchester United,04/05/2020,CB,  2
+Harry Maguire         ,England    ,05/03/1993,Manchester United,07/07/2019,CB,  5
+Bruno Fernandes       ,Porgutal   ,08/09/1994,Manchester United,29/01/2020,AM, 18
+Fred                  ,Brazil     ,05/03/1993,Manchester United,05/06/2018,CM, 17
+Casemiro              ,Brazil     ,23/02/1992,Manchester United,19/08/2022,DM, 14
+Christian Eriksen     ,Denmark    ,14/02/1992,Manchester United,04/05/2021,CM, 13
+Cristiano Ronaldo     ,Porgutal   ,05/02/1985,Manchester United,17/08/2021,ST,  7
+Marcus Rashford       ,England    ,31/10/1997,Manchester United,05/05/2015,CF, 10
+Jadon Sancho          ,England    ,25/03/2000,Manchester United,01/07/2021,LW, 25

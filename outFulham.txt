@@ -1,0 +1,49 @@
+
+
+					THONG TIN HUAN LUYEN VIEN
+
+Ho va ten                 Quoc tich       Ngay sinh       Tuoi
+
+
+Marco Silva               Portugal        12/07/1977        45
+
+							+------------------------------------------------+
+							|                                                |
+							|              DANH SACH CAU THU                 |
+							|                                                |
+							+------------------------------------------------+
+
+Ho va ten                 Quoc tich       Ngay sinh       Tuoi          Cau lac bo             Ngay gia nhap      Vi tri   So ao  Ban thang   Kien tao
+
+
+Marek Rodak               Slovakia        12/12/1996        26                   Fulham          18/11/2018           GK       1          0          0
+
+Bernd Leno                Germany         04/03/1992        30                   Fulham          24/12/2019           GK      17          0          0
+
+Kevin Mbabu               Switzerland     19/04/1995        27                   Fulham          02/07/2017           CB      27          0          0
+
+Issa Diop                 France          09/01/1997        25                   Fulham          24/12/2017           RB      31          0          0
+
+Shane Duffy               Ireland         01/01/1992        30                   Fulham          23/02/2014           CB       5          0          0
+
+Kenny Tete                Netherlands     09/10/1995        27                   Fulham          26/11/2018           RB       2          0          0
+
+Tim Ream                  America         05/10/1987        35                   Fulham          08/08/2015           LB      13          0          0
+
+Layvin Kurzawa            France          04/09/1992        30                   Fulham          23/01/2016           LB       3          0          0
+
+Tom Cairney               Scotland        20/01/1991        31                   Fulham          27/02/2014           CM      10          0          0
+
+Josh Onomah               England         27/04/1997        25                   Fulham          11/05/2017          CDM      25          0          0
+
+Bobby Reid                England         02/02/1993        29                   Fulham          19/08/2014           CM      14          0          0
+
+Harry Wilson              Wales           22/03/1997        25                   Fulham          11/02/2018           CM       8          0          0
+
+Joao Palhinha             Portugal        09/07/1995        27                   Fulham          24/12/2017          CAM      26          0          0
+
+Daniel James              Wales           10/11/1997        25                   Fulham          16/09/2018           ST      21          0          0
+
+Manor Solomon             Israel          14/07/1999        23                   Fulham          13/05/2019           ST      11          0          0
+
+Willian                   Brazil          09/08/1988        34                   Fulham          11/01/2016           ST      20          0          0

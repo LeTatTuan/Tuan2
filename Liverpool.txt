@@ -1,0 +1,18 @@
+Liverpool,
+Jurgen Klopp          ,Germany    ,16/06/1967,
+Alisson Becker        ,Brazil     ,02/10/1992,Liverpool,17/12/2017,GK,	 1
+Adrian San Miguel     ,Spain      ,03/01/1987,Liverpool,22/07/2017,GK,	13
+Caoimhin Kelleher     ,Ireland    ,23/11/1998,Liverpool,06/02/2018,GK,	62
+Joe Gomez             ,England    ,23/05/1997,Liverpool,10/09/2019,RB,	 2
+Virgil van Dijk       ,Netherlands,08/07/1991,Liverpool,08/08/2019,CB,	 4
+Trent Alexander-Arnold,England    ,07/10/1998,Liverpool,29/03/2018,LB,	66
+Andrew Robertson      ,Scotland   ,11/03/1994,Liverpool,06/11/2019,CB,	26
+Kondysntinos Tsimikas ,Greece     ,15/05/1996,Liverpool,11/03/2019,RB,	21
+Fabinho               ,Brazil     ,23/10/1993,Liverpool,18/09/2017,CM,	 3
+Naby Keita            ,Guinea     ,10/02/1995,Liverpool,20/11/2018,CM,	 8
+Jordan Henderson      ,England    ,17/06/1990,Liverpool,06/11/2019,CAM,	14
+James Milner          ,England    ,04/01/1986,Liverpool,17/04/2018,CDM,	 7
+Mohamed Salah         ,Egypt      ,15/06/1992,Liverpool,11/05/2017,ST,	11
+Luis Diaz             ,Colombia   ,13/01/1997,Liverpool,09/01/2018,ST,	23
+Roberto Firmino       ,Brazil     ,02/10/1991,Liverpool,21/12/2019,ST,	 9
+Darwin Nunez          ,Uruguay    ,24/06/1999,Liverpool,24/07/2022,ST,	27
